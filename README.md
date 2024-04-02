@@ -13,6 +13,10 @@ This is simple to use template. Follow these steps to find out:
 5. After that, tap/click the wrench icon on the top-right corner of the app and it will package your app again.
 6. You can change the app icon and its package name according to your choice within the app also.
 
-This repository is not licensed as it is not a complete app and hence doesn't requires a license.
+For some reasons, the source code of this application is not available currently. Apologies have been made for this circumstance.
 
 Further instructions maybe given in the future.
+
+### NOTE: This repository is not licensed as it is not a complete app and hence doesn't requires a license.
+
+
