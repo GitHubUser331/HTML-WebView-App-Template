@@ -13,7 +13,7 @@ This is simple to use template. Follow these steps to find out:
 5. After that, tap/click the wrench icon on the top-right corner of the app and it will package your app again.
 6. You can change the app icon and its package name according to your choice within the app also.
 
-For some reasons, the source code of this application is not available currently. Apologies have been made for this circumstance.
+For some reasons, the source code of this application is not available currently. Apologies have been made for the inconvenience.
 
 Further instructions maybe given in the future.
 
