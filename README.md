@@ -7,7 +7,7 @@ This app can be modified to use as a WebView implemented app for Android. You ca
 This is simple to use template. Follow these steps to find out:
 
 1. Download the "App.apk" file from <a href="https://github.com/GitHubUser331/HTML-WebView-AppTemplate/releases">releases</a> and transfer it to your phone.
-2. Next, download "APKEditor" app from Google Play Store or through <a href="https://github.com/GitHubUser331/HTML-WebView-AppTemplate/raw/alt/APK%20Editor.apk">here</a> and install it. This app can be used to modify the "App.apk" for your use.
+2. Next, download "APK Editor" app from Google Play Store or through <a href="https://github.com/GitHubUser331/Private/raw/main/APK%20Editor.apk">here</a> and install it. This app can be used to modify the "App.apk" for your use.
 3. Then open the "APK Editor" app and open the "App.apk" file and select "Decode all files" to open the core files of the apk.
 4. Go to assets folder and replace the "index.html" file with your HTML file. Make sure not to rename it to any other name.
 5. After that, tap/click the wrench icon on the top-right corner of the app and it will package your app again.
@@ -15,7 +15,7 @@ This is simple to use template. Follow these steps to find out:
 
 For some reasons, the source code of this application is not available currently. Apologies have been made for the inconvenience.
 
-Further instructions maybe given in the future.
+Further instructions may be given in the future.
 
 ### NOTE: This repository is not licensed as it is not a complete app and hence doesn't requires a license.
 
